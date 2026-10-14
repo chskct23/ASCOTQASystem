@@ -1,0 +1,6 @@
+{
+  "name": "ASCOT Casiguran Feasibility & Local Survey System",
+  "description": "Local survey data intake, local secure database, PDF & CSV exports, feasibility analytics, and automated executive report generation with email dispatch for Aurora State College of Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
